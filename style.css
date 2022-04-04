@@ -6,17 +6,14 @@ text-align: left;
 .heading h3{
     display: inline;
 }
-
 .heading button{
     float: right;
     border: 1px solid white;
 }
-
 #start ,#status, #restart
 {
 font-size: 22px;
 }
-
 .modal-dialog
 {
     width: 70%;
@@ -33,8 +30,8 @@ h4
    line-height: 2;
 }
 canvas 
-  {
+{
       border:3px solid white;
       border-radius: 20px;
       box-shadow:  5px 5px 5px white;
-  }
+}
